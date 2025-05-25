@@ -9,6 +9,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #D5E1EF;
 }
 
 #outer-container {
@@ -17,7 +18,6 @@ body {
     display: grid;
     justify-content: center;
     background-color: rgb(255, 255, 255);
-    border: 2px solid black;
     width: 320px;
     height: 499px;
 }
@@ -26,7 +26,10 @@ body {
     position: relative;
     margin: 16px 16px 0px 16px;
     border-radius: 10px;
-    background-color: blue;
+    background-image: url(/assets/qr-code-component-main/images/image-qr-code.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     width: 288px;
     height: 288px;
 }
@@ -40,10 +43,16 @@ body {
 }
 
 h1 {
-    font-size: 1.5rem;
+    color: #1F314F;
+    font-size: 22px;
+    line-height: 120%;
     margin: 0 0 16px 0;
 }
 
 p {
+    color: #68778D;
+    font-size: 15px;
+    letter-spacing: 0.2px;
+    line-height: 140%;
     margin: 0;
 }
