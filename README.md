@@ -18,4 +18,5 @@ The goal was to build a responsive QR Code component with accurate styling and s
 
 ## Deployment
 
-The project is deployed and hosted on Netlify for easy access and live preview.
+The project is deployed and hosted on Netlify for easy access and live preview:  
+[https://qr-code-component-xtralvl.netlify.app/](https://qr-code-component-xtralvl.netlify.app/)
