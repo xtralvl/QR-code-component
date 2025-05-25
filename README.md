@@ -14,7 +14,7 @@ This project is a solution to the Frontend Mentor [Getting Started challenge](ht
 ## Project Overview
 
 This project helped me practice translating a Figma design into code using Flexbox and Grid for layout.
-The goal was to build a responsive QR Code component with accurate styling and structure.
+The goal was to build a QR Code component with accurate styling and structure.
 
 ## Deployment
 
